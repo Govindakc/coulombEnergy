@@ -1,9 +1,10 @@
 // _author_
 // Govinda KC
 // The University of Texas at El Paso.
+
 // This program calculates the columb's energy
 // The computed energy is compared to Delphi Software and results are consistent
-// Energy is measured interms of kT where k is Boltzman constant 1.38064852 SI unit and T is thermal temp (300 K) 
+// Energy is measured interms of kT where k is Boltzmann constant 1.38064852 SI unit and T is thermal temp (300 K) 
 
 #include <stdio.h>
 #include <stdlib.h>
