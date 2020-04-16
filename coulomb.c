@@ -1,9 +1,14 @@
 // _author_
 // Govinda KC
 // The University of Texas at El Paso.
+<<<<<<< HEAD:coulomb.c
 // This program calculates the coulomb energy
+=======
+
+// This program calculates the columb's energy
+>>>>>>> eb3d82d40ffd224811c7ff094e280c524039caaf:columbEnergy.c
 // The computed energy is compared to Delphi Software and results are consistent
-// Energy is measured interms of kT where k is Boltzman constant 1.38064852 SI unit and T is thermal temp (300 K) 
+// Energy is measured interms of kT where k is Boltzmann constant 1.38064852 SI unit and T is thermal temp (300 K) 
 
 #include <stdio.h>
 #include <stdlib.h>
